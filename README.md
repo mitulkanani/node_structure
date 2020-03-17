@@ -1,15 +1,3 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Build Status](https://travis-ci.org/shekhar-raval/node-express-es8.svg?branch=master)](https://travis-ci.org/shekhar-raval/node-express-es8)
-[![Coverage Status](https://coveralls.io/repos/github/shekhar-raval/node-express-es8/badge.svg?branch=master)](https://coveralls.io/github/shekhar-raval/node-express-es8?branch=master)
-[![Known Vulnerabilities](https://snyk.io/test/github/shekhar-raval/node-express-es8/badge.svg?targetFile=package.json)](https://snyk.io/test/github/shekhar-raval/node-express-es8?targetFile=package.json)
-![node version](https://img.shields.io/badge/node-%3E=%2012.0.0-brightgreen.svg)
-[![express](https://img.shields.io/badge/express-4.17.1-orange.svg)](https://github.com/expressjs/express)
-[![mongoose](https://img.shields.io/badge/mongoose-5.7.7-red.svg)](https://mongoosejs.com/)
-[![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-green.svg)](https://github.com/auth0/node-jsonwebtoken)
-[![LICENCE](https://img.shields.io/github/license/shekhar-raval/node-express-es8)](https://img.shields.io/github/license/shekhar-raval/node-express-es8)
-[![code style](https://img.shields.io/badge/eslint--config--standard-%5E12.0.0-blue.svg)](https://github.com/standard/eslint-config-standard)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-
 # Node.js - Express, MongoDB, ES8 REST API Boilerplate
 
 ## Features
@@ -48,7 +36,7 @@
 1. Clone the repo and make it yours:
 
 ```bash
-git clone https://github.com/shekhar-raval/node-express-es8 node-api
+git clone https://github.com/mitulkanani/node_structure.git node-api
 cd node-api
 rm -rf .git
 ```
